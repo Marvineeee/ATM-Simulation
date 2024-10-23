@@ -2,8 +2,8 @@ balance = 0
 cash = 200
 
 def main(balance, cash):
-    name = str(input("Hello, Welcome Too Jeune Banking!\n Enter User Name: ")).strip().capitalize()
-    print("Thank you for banking with Jeune, ", name)
+    name = str(input("Hello, Welcome Too ETX Banking!\n Enter User Name: ")).strip().capitalize()
+    print("Thank you for banking with ETX, ", name)
     _bank_menu(balance, cash)
 
 
